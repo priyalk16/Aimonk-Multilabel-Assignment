@@ -67,9 +67,9 @@ The following strategies were considered:
 - Class-weighted BCE (`pos_weight`)
 - Focal Loss
 - Weighted sampling
-- Attribute-wise threshold tuning
+- Attribute wise threshold tuning
 
-Due to dataset size and stability concerns, the final implementation uses masked BCEWithLogitsLoss for stable training. Imbalance-aware strategies are identified as future improvements.
+Due to dataset size and stability concerns, the final implementation uses masked BCEWithLogitsLoss for stable training. Imbalance aware strategies are identified as future improvements.
 
 ---
 
@@ -107,5 +107,6 @@ The model can be reproduced by running `python train.py`.
 
 Trained model weights can be downloaded here:
 https://drive.google.com/file/d/1oa8c7TzZyj7RWKoD0xtSU1M0bPOA2V4Z/view?usp=drive_link
+
 
 
