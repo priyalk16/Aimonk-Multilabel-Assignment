@@ -105,3 +105,7 @@ The loss curve contains:
 ## Due to GitHub file size limits, the trained model weights (.pth) are not uploaded. 
 The model can be reproduced by running `python train.py`.
 
+Trained model weights can be downloaded here:
+https://drive.google.com/file/d/1oa8c7TzZyj7RWKoD0xtSU1M0bPOA2V4Z/view?usp=drive_link
+
+
