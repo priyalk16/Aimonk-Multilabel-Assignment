@@ -102,4 +102,6 @@ The loss curve contains:
 - Y-axis: `training_loss`
 - Title: `Aimonk_multilabel_problem`
 
-Saved as:
+## Due to GitHub file size limits, the trained model weights (.pth) are not uploaded. 
+The model can be reproduced by running `python train.py`.
+
